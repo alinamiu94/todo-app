@@ -62,6 +62,7 @@ In the task menu View, users can choose between creating a new task or view all 
 ### 5. Task creation View
 
 ![](photos/img_5.png)
+
 In the Task creation View the user can add a new task. He will need to enter the task name, a description and a due date.
 The task will be inserted in the database with the "To do" status.
 
