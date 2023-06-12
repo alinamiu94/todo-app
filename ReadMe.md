@@ -55,27 +55,27 @@ If users doesn't exist it will be shown "User doesn't exist!".
 If the password is not correct it will be shown "Password is not correct".
 
 ### 4. Task Menu View
-![](photos/Screenshot 2023-06-12 at 11.03.00.png)
+![](photos/img_4.png)
 
 In the task menu View, users can choose between creating a new task or view all tasks.
 
 ### 5. Task creation View
 
-![](photos/Screenshot 2023-06-12 at 11.06.12.png)
+![](photos/img_5.png)
 In the Task creation View the user can add a new task. He will need to enter the task name, a description and a due date.
 The task will be inserted in the database with the "To do" status.
 
 
 ### 6. View tasks View
 
-![](photos/Screenshot 2023-06-12 at 11.13.59.png)
+![](photos/img_6.png)
 
 In this view it will shown all tasks for the logged user.
 And you can enter the task id to view details for selected task.
 
 
 ### 7. Detailed task View
-![](photos/Screenshot 2023-06-12 at 11.15.12.png)
+![](photos/img_7.png)
 
 In this view you can view all details about the task selected and you change the status and you can delete it.
 
